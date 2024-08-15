@@ -1,6 +1,4 @@
-package LoadUrl;
-
-//Browser Automation
+package browser_automation;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

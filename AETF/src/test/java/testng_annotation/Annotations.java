@@ -66,6 +66,4 @@ public class Annotations {
     public void afterClass(){
         System.out.println("After Class");
     }
-
-
 }
